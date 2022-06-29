@@ -1,3 +1,4 @@
+
 mark {background-color:yellow;
    font-family:arial narrow;
    color:black}
@@ -19,4 +20,13 @@ table {margin-left:100px;}
 
 .sectionMargin1{
      padding-top: 8rem;
+}
+.principal{
+     margin: 7px;
+}
+.interest{
+     margin: 7px;
+}
+.no-of-years{
+     margin: 7px;
 }
