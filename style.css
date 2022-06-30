@@ -1,32 +1,52 @@
+body {
+     background-color: black;
+}
 
-mark {background-color:yellow;
+mark {
+   background-color:yellow;
    font-family:arial narrow;
-   color:black}
-h3{color:grey;
-font-family:arial black;}
-.container{
+   color:black
+}
+
+h3 {
+   color:grey;
+   font-family:arial black;
+}
+
+.container {
      background:border-box whitesmoke;
      color:black;
      width: 600px;
      margin: auto;
-padding:20px;
+     padding:20px;
      border-radius: 25px;
-     text-decoration:center;}
-table {margin-left:100px;}
+     text-decoration:center;
+}
 
-.sectionMargin{
+table {
+     margin-left:100px;
+}
+
+.sectionMargin {
      padding-top: 2rem;
 }
 
-.sectionMargin1{
+.sectionMargin1 {
      padding-top: 8rem;
 }
+
 .principal{
-     margin: 7px;
+     margin: 5px;
 }
+
 .interest{
-     margin: 7px;
+     margin: 5px;
 }
+
 .no-of-years{
-     margin: 7px;
+     margin: 5px;
+}
+
+.compute-button {
+     margin: 5px;
 }
